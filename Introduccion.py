@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Título de la página
-st.title("Sprint N° 2 - Automatización")
+st.title("Sprint N° 3 - Visualización y Machine Learning")
 
 # Separador visual
 st.markdown('***')
